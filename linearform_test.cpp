@@ -1,4 +1,5 @@
 #include "linearform_test.hpp"
+#include <cassert>
 
 void LinearFormTest(){
     int length = 10;
